@@ -10,11 +10,11 @@
 实现效果<br>
 ![image](screenshot/4.png)
 ## 限制布局
-计算机布局样式
+计算机布局样式<br>
 ![image](screenshot/5.png)
 实现效果<br>
 ![image](screenshot/6.png)
-小游戏布局样式
+小游戏布局样式<br>
 ![image](screenshot/7.png)
 实现效果<br>
 ![image](screenshot/8.png)
