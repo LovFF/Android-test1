@@ -1,7 +1,7 @@
 # Android开发实验二
 ## 线性布局
 布局样式
-![image](https://github.com/LovFF/Android-test1/blob/master/screenshot/Y`1H}SNI1LX1$I(Q@W51VPV.png)
+![image](https://raw.githubusercontent.com/LovFF/Android-test1/master/screenshot/Y%601H%7DSNI1LX1%24I(Q%40W51VPV.png)
 实现效果
 ![image](https://github.com/LovFF/Android-test1/blob/master/screenshot/DBN0UQ~GEXQ%60MQWKWVW%5BW03.png)
 ## 表格布局
