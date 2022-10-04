@@ -12,7 +12,7 @@
 ## 限制布局
 计算机布局样式<br>
 ![image](screenshot/5.png)<br>
-实现效果
+实现效果<br>
 ![image](screenshot/6.png)<br>
 小游戏布局样式
 ![image](screenshot/7.png)
